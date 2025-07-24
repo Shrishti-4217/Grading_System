@@ -13,6 +13,6 @@ while(ans!="EXIT"):
     elif marks<40:
         print("F\n")
     else:
-        print("Invalid Input")
+        print("Invalid Input")   #invalid input
         continue
     ans=input("Would you like to continue==>")  # type EXIT to stop otherwise type yes
